@@ -26,6 +26,33 @@ The performance of the implemented algorithms is compared in this section. For t
 
 To compare the performance of the different search algorithms, the time taken by each algorithm to solve the maze, the number of nodes expanded, and the length of the shortest path found by each algorithm for each of the three mazes are measured. These parameters are a good indicator of the efficiency of these algorithms.
 
+# Usage 
+
+To use this code, first install the required packages by running the command:
+
+`pip install -r requirements.txt`
+
+To run DFS, use the following function:
+
+`DFS()`
+
+To run BFS, use the following function:
+
+`BFS()`
+
+To run A*, use the following function:
+
+`aStar()`
+
+To run value iteration, use the following function:
+
+`mdp_value_iteration()`
+
+To run policy iteration, use the following function:
+
+`mdp_policy_iteration()`
+
+Note that the above commands will run on a 10 x 10 saved maze present in the project directory.
 
 ## Performance Comparison
 
