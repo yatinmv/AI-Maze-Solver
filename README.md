@@ -1,6 +1,12 @@
 # AI-Maze-Solver
 This project contains the implementation of various search techniques, including DFS, BFS, A* Search, and MDP algorithms (Value Iteration and Policy Iteration) for solving a maze. This project aims to compare the performance of these techniques in terms of finding the shortest path in the maze.
 
+
+<p align="center">
+  <img src="maze1.png" alt="Maze 1" width="300"/>
+  <img src="maze2.png" alt="Maze 2" width="300"/>
+  
+</p>
 # Search Algorithms
 
 ## DFS Algorithm
