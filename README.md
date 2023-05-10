@@ -5,9 +5,10 @@ This project contains the implementation of various search techniques, including
 <p align="center">
   <img src="maze1.png" alt="Maze 1" width="400"/>
   <br/>
-  <img src="maze2.png" alt="Maze 2" width="400"/>
-  
+  <img src="maze2.png" alt="Maze 2" width="400"/>  
 </p>
+
+
 # Search Algorithms
 
 ## DFS Algorithm
